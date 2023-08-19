@@ -1,4 +1,4 @@
-# s2t
+# s2t (speech2text)
 
 This application utilizes the Google Speech Recognition API to convert spoken words into text.
 
