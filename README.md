@@ -5,7 +5,7 @@ This application utilizes the Google Speech Recognition API to convert spoken wo
 ## Prerequisites
 
 - Python 3.x
-- Libraries: `speech_recognition`, `psutil`, `requests`
+- Libraries: `speech_recognition`, `psutil`, `requests`, `pyperclip`
 
 To install the required libraries, use the following:
 ```bash
@@ -21,7 +21,8 @@ pip install speech_recognition psutil requests
    - ALSA Configuration status
    - System resource utilization (CPU and Memory usage)
    - Network latency to Google
-
+3. **Save to clipboard**: Use this application to simplify your workflows. Paste wherever the content is needed.
+   
 ## Usage
 
 1. Run the application:
